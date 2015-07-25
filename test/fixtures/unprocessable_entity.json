@@ -1,0 +1,5 @@
+{
+  "code": 422,
+  "message": "Unprocessable Entity",
+  "errors": "Calories can't be blank, Timestamp can't be blank"
+}

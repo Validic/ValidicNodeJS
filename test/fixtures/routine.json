@@ -1,0 +1,17 @@
+{
+  "code": 201,
+  "message": "Ok",
+  "routine": {
+    "_id": "51552cdbfded0807c400006d",
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "steps": 9355,
+    "distance": 7290.33,
+    "floors": 23.0,
+    "elevation": 3.4,
+    "calories_burned": 2874,
+    "source": "sample_app",
+    "source_name": "Sample App",
+    "last_updated": "2013-03-10T07:12:16+00:00"
+  }
+}

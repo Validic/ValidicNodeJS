@@ -1,0 +1,32 @@
+{"summary":
+ {"status":200,
+  "message":"Ok",
+  "results":1,
+  "start_date":"2015-01-13T00:00:00+00:00",
+  "end_date":"2015-01-15T23:59:59+00:00",
+  "offset":0,
+  "limit":null,
+  "previous":null,
+  "next":null,
+  "params":{"start_date":null,
+             "end_date":null,
+             "offset":0,
+             "limit":0
+   }
+ },
+ "apps": [
+   {"name":"Healthy Yet",
+    "sync_url":"https://app.validic.com/organizations/549826e48ee42168f1000045/auth/healthy_yet?user_token=Z7CL7JtMgwmtNXcoza6j&format_redirect=json",
+    "unsync_url":"",
+    "refresh_url":"",
+    "download_link":"",
+    "excerpt":"Healthy Yet app",
+    "extra_excerpt":"Healthy Yet app",
+    "subname":"healthy_yet",
+    "kind":null,
+    "logo_url":"https://s3.amazonaws.com/healthyyet/healthyyet-logo-blue.png",
+    "platform_types":null,
+    "synced":false,
+    "last_sync":null}
+ ]
+}

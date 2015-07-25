@@ -1,0 +1,32 @@
+{
+  "name": "validic",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "Bryan Bonnet",
+    "email": "bryan.bonnet@datamindedsolutions.com",
+    "url": ""
+  },
+  "main": "./lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "keywords": [],
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-eslint": "^0.8.0",
+    "gulp-istanbul": "^0.8.1",
+    "gulp-jscs": "^1.1.0",
+    "gulp-jshint": "^1.5.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "jshint-stylish": "^1.0.0",
+    "nock": "^2.6.0",
+    "supertest": "^1.0.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "license": "Apache-2.0"
+}

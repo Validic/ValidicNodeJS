@@ -1,0 +1,5 @@
+{
+  "code": 409,
+  "message": "Conflict",
+  "errors": "User already exists"
+}

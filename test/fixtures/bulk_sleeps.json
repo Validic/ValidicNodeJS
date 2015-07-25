@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "status": 200,
+    "message": "OK",
+    "results": 3,
+    "start_date": "2013-03-27T00:00:00+00:00",
+    "end_date": "2013-03-27T23:59:59+00:00",
+    "offset": 0,
+    "limit": 100,
+    "previous": null,
+    "next": null,
+    "params": {
+      "start_date": null,
+      "end_date": null,
+      "offset": null,
+      "limit": null
+    }
+  }, "sleep": [
+    {
+      "_id": "51552cddfded0807c400008b",
+      "timestamp": "2013-03-10T07:12:16+00:00",
+      "utc_offset": "+00:00",
+      "awake": 34,
+      "deep": 234,
+      "light": 94,
+      "rem": 115,
+      "times_woken": 4,
+      "total_sleep": 477,
+      "source": "sample_app",
+      "source_name": "Sample App",
+      "last_updated": "2013-03-10T07:12:16+00:00",
+      "user_id": "51552cd7fded0807c4000017"
+    }
+  ]
+}

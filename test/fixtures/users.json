@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "status": 200,
+    "message": "OK",
+    "results": 3,
+    "start_date": "2013-03-27T00:00:00+00:00",
+    "end_date": "2013-03-27T23:59:59+00:00",
+    "offset": 0,
+    "limit": 100,
+    "previous": null,
+    "next": null,
+    "params": {
+      "start_date": null,
+      "end_date": null,
+      "offset": null,
+      "limit": null
+    }
+}, "users": [
+  {"_id": "54a1c63884626b41c1000516"},
+  {"_id": "54a2c29d84626b8d6c000012"},
+  {"_id": "54a2c5bf84626b198f00000b"}
+ ]
+}

@@ -1,0 +1,43 @@
+{
+  "summary": {
+    "status": 200,
+    "message": "Ok",
+    "results": 11,
+    "start_date": "2015-01-13T00:00:00+00:00",
+    "end_date": "2015-01-15T23:59:59+00:00",
+    "offset": 0,
+    "limit": null,
+    "previous": null,
+    "next": null,
+    "params": {
+      "start_date": null,
+      "end_date": null,
+      "offset": 0,
+      "limit": 0
+    }
+  },
+  "apps": [
+    {
+    "name": "Fleetly",
+    "sync_url": "https://app.validic.com/organizations/1/auth/fleetly?user_token=T6ac2gyEoDcasyqj6EWf&format_redirect=json",
+    "unsync_url": "https://app.validic.com/organizations/1/unsync/fleetly?user_token=T6ac2gyEoDcasyqj6EWf&format_redirect=json",
+    "refresh_url": "https://app.validic.com/organizations/1/refresh/fleetly?user_token=T6ac2gyEoDcasyqj6EWf&format_redirect=json",
+    "download_link": "",
+    "excerpt": "Fleetly is the best app to reach your fitness goals.",
+    "extra_excerpt": "Earn points for logging your workouts, connect with friends and join challenges at all levels, from beginner to pro. Featured in LifeHacker, Mashable, Fitness Magazine, Ubergizmo, VentureBeat, CNET, UrbanDaddy, and Huffington Post's \"Best strength training app\".",
+    "subname": "fleetly",
+    "kind": [
+      "fitness"
+    ],
+    "logo_url": "/assets/appicons/fleetly-icon.png",
+    "platform_types": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "synced": true,
+    "last_sync": "2015-01-14T19:21:08+00:00"
+  }
+  ]
+}
+

@@ -1,0 +1,38 @@
+{
+    "summary": {
+        "status": 200,
+        "message": "Ok",
+        "results": 1,
+        "start_date": "2015-01-14T00:00:00+00:00",
+        "end_date": "2015-01-16T23:59:59+00:00",
+        "offset": 0,
+        "limit": 100,
+        "previous": null,
+        "next": null,
+        "params": {
+            "start_date": null,
+            "end_date": null,
+            "offset": 0,
+            "limit": 0
+        }
+    },
+    "diabetes": [
+        {
+            "_id": "54b670d3f9d139ce62035a1d",
+            "timestamp": "2015-01-14T13:22:15+00:00",
+            "utc_offset": "+00:00",
+            "c_peptide": null,
+            "fasting_plasma_glucose_test": null,
+            "hba1c": null,
+            "insulin": null,
+            "oral_glucose_tolerance_test": null,
+            "random_plasma_glucose_test": null,
+            "triglyceride": null,
+            "blood_glucose": 85,
+            "source": "vitadock",
+            "source_name": "Vitadock",
+            "last_updated": "2015-01-14T13:36:19+00:00",
+            "user_id": "52ffcb4bf1f70eefba000004"
+        }
+    ]
+}

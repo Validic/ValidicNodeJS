@@ -1,0 +1,56 @@
+{
+    "summary": {
+        "status": 200,
+        "message": "Ok",
+        "results": 1,
+        "start_date": "2015-01-14T00:00:00+00:00",
+        "end_date": "2015-01-16T23:59:59+00:00",
+        "offset": 0,
+        "limit": 100,
+        "previous": null,
+        "next": null,
+        "params": {
+            "start_date": null,
+            "end_date": null,
+            "offset": 0,
+            "limit": 0
+        }
+    },
+    "biometrics": [
+        {
+            "_id": "54b670e07b361fb5c7000353",
+            "timestamp": "2015-01-14T13:22:55+00:00",
+            "utc_offset": "+00:00",
+            "blood_calcium": null,
+            "blood_chromium": null,
+            "blood_folic_acid": null,
+            "blood_magnesium": null,
+            "blood_potassium": null,
+            "blood_sodium": null,
+            "blood_vitamin_b12": null,
+            "blood_zinc": null,
+            "creatine_kinase": null,
+            "crp": null,
+            "diastolic": 58,
+            "ferritin": null,
+            "hdl": null,
+            "hscrp": null,
+            "il6": null,
+            "ldl": null,
+            "resting_heartrate": 88,
+            "systolic": 118,
+            "testosterone": null,
+            "total_cholesterol": null,
+            "tsh": null,
+            "uric_acid": null,
+            "vitamin_d": null,
+            "white_cell_count": null,
+            "spo2": null,
+            "temperature": null,
+            "source": "vitadock",
+            "source_name": "Vitadock",
+            "last_updated": "2015-01-14T13:36:32+00:00",
+            "user_id": "52ffcb4bf1f70eefba000004"
+        }
+    ]
+}

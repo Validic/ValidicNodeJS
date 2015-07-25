@@ -1,0 +1,18 @@
+{
+  "diabetes": {
+    "_id": "51552cd6fded0807c4000007",
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "c_peptide": 0.6,
+    "fasting_plasma_glucose_test": 95,
+    "hba1c": 4.8,
+    "insulin": 460,
+    "oral_glucose_tolerance_test": 137,
+    "random_plasma_glucose_test": 256,
+    "triglyceride": 128,
+    "blood_glucose": 120,
+    "source": "sample_app",
+    "source_name": "Sample App",
+    "last_updated": "2013-03-10T07:12:16+00:00"
+  }
+}

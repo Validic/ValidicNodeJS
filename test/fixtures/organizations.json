@@ -1,0 +1,27 @@
+{
+    "summary": {
+        "status": 200,
+        "message": "Ok",
+        "results": 1,
+        "start_date": null,
+        "end_date": null,
+        "offset": 0,
+        "limit": 100,
+        "params": {
+            "start_date": null,
+            "end_date": null,
+            "offset": null,
+            "limit": null,
+            "source": null
+        }
+    },
+    "organization": {
+        "_id": "{ORGANIZATION_ID}",
+        "name": "{ORGANIZATION_NAME}",
+        "users": 64,
+        "users_provisioned": 124,
+        "activities": 25334,
+        "connections": 260,
+        "organizations": []
+    }
+}

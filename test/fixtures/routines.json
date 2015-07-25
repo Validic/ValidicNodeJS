@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "status": 200,
+    "message": "OK",
+    "results": 3,
+    "start_date": "2013-03-27T00:00:00+00:00",
+    "end_date": "2013-03-27T23:59:59+00:00",
+    "offset": 0,
+    "limit": 100,
+    "previous": null,
+    "next": null,
+    "params": {
+      "start_date": null,
+      "end_date": null,
+      "offset": null,
+      "limit": null
+    }
+  },"routine": [
+    {
+    "_id": "51552cdbfded0807c4000062",
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "steps": 9355,
+    "distance": 7290.33,
+    "floors": 23,
+    "elevation": 3.4,
+    "calories_burned": 2874,
+    "source": "sample_app",
+    "source_name": "Sample App",
+    "last_updated": "2013-03-10T07:12:16+00:00"
+  },
+  {
+    "_id": "51552cdbfded0807c4000062",
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "steps": 9355,
+    "distance": 7290.33,
+    "floors": 23,
+    "elevation": 3.4,
+    "calories_burned": 2874,
+    "source": "sample_app",
+    "source_name": "Sample App",
+    "last_updated": "2013-03-10T07:12:16+00:00"
+  }
+  ]
+}
+

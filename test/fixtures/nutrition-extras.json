@@ -1,0 +1,13 @@
+{
+  "nutrition": {
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "-05:00",
+    "start_time": "2013-03-09T02:12:16-05:00",
+    "fat": 5149.9,
+    "fiber": 1959,
+    "calories": 350,
+    "activity_id": "12345",
+    "extras": {"stars": 3}
+  },
+  "access_token": "1"
+}

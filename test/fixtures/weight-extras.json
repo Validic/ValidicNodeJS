@@ -1,0 +1,15 @@
+{
+  "weight": {
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "weight": 83.9146,
+    "height": 167.5,
+    "free_mass": 83.9146,
+    "fat_percent": 21.4,
+    "mass_weight": 83.9146,
+    "bmi": 29.9,
+    "data_id": "12345",
+    "extras": {"stars": 3}
+  },
+  "access_token": "e7ba1f04e88f25d399a91c8cbcd72300e01309e96b7725e40b49cd1effaa5deb"
+}

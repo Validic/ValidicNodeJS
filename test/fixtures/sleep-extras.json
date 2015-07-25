@@ -1,0 +1,15 @@
+{
+  "sleep": {
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "total_sleep": 477,
+    "awake": 34,
+    "deep": 234,
+    "light": 94,
+    "rem": 115,
+    "times_woken": 4,
+    "activity_id": "12345",
+    "extras": {"stars": 3}
+  },
+  "access_token": "e7ba1f04e88f25d399a91c8cbcd72300e01309e96b7725e40b49cd1effaa5deb"
+}

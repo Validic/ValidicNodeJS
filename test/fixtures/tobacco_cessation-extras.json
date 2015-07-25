@@ -1,0 +1,12 @@
+{
+  "tobacco_cessation": {
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "cigarettes_allowed": 9,
+    "cigarettes_smoked": 2,
+    "cravings": 12,
+    "last_smoked": "2013-03-10T05:55:36+00:00",
+    "extras": {"stars": 3}
+  },
+  "access_token": "e7ba1f04e88f25d399a91c8cbcd72300e01309e96b7725e40b49cd1effaa5deb"
+}

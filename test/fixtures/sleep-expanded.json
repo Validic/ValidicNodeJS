@@ -1,0 +1,51 @@
+{
+    "summary": {
+        "status": 200,
+        "message": "Ok",
+        "results": 2,
+        "start_date": "2015-01-14T00:00:00+00:00",
+        "end_date": "2015-01-16T23:59:59+00:00",
+        "offset": 0,
+        "limit": 100,
+        "previous": null,
+        "next": null,
+        "params": {
+            "start_date": null,
+            "end_date": null,
+            "offset": 0,
+            "limit": 0
+        }
+    },
+    "sleep": [
+        {
+            "_id": "54b7512363f4821b49002a5a",
+            "timestamp": "2015-01-15T08:29:20+00:00",
+            "utc_offset": "+08:00",
+            "awake": 2289,
+            "deep": 7955,
+            "light": 7502,
+            "rem": null,
+            "times_woken": 1,
+            "total_sleep": 17746,
+            "source": "jawbone_up",
+            "source_name": "Jawbone Up",
+            "last_updated": "2015-01-15T05:33:23+00:00",
+            "user_id": "52ffcb4bf1f70eefba000004"
+        },
+        {
+            "_id": "54b65a51e22c4dbe05000aa4",
+            "timestamp": "2015-01-14T02:42:36+00:00",
+            "utc_offset": "-06:00",
+            "awake": 2361,
+            "deep": 17581,
+            "light": 10739,
+            "rem": null,
+            "times_woken": 0,
+            "total_sleep": 30681,
+            "source": "jawbone_up",
+            "source_name": "Jawbone Up",
+            "last_updated": "2015-01-14T12:00:17+00:00",
+            "user_id": "535573c8f1f70e2bb6000012"
+        }
+    ]
+}

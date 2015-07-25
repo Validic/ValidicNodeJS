@@ -1,0 +1,16 @@
+{
+  "fitness": {
+    "_id": "51552cd8fded0807c400002a",
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "-05:00",
+    "type": "Running",
+    "intensity": "medium",
+    "start_time": "2013-03-09T02:12:16-05:00",
+    "distance": 5149.9,
+    "duration": 1959,
+    "calories": 350,
+    "source": "sample_app",
+    "source_name": "Sample App",
+    "last_updated": "2013-03-10T07:12:16+00:00"
+  }
+}

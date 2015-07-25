@@ -1,0 +1,66 @@
+{
+    "summary": {
+        "status": 200,
+        "message": "Ok",
+        "results": 3,
+        "start_date": "2015-01-14T00:00:00+00:00",
+        "end_date": "2015-01-16T23:59:59+00:00",
+        "offset": 0,
+        "limit": 100,
+        "previous": null,
+        "next": null,
+        "params": {
+            "start_date": null,
+            "end_date": null,
+            "offset": 0,
+            "limit": 0
+        }
+    },
+    "weight": [
+        {
+            "_id": "54b80f0e881661dac000d7e4",
+            "timestamp": "2015-01-15T18:30:00+00:00",
+            "utc_offset": "+05:30",
+            "weight": 44,
+            "height": null,
+            "free_mass": null,
+            "fat_percent": 14,
+            "mass_weight": null,
+            "bmi": 15.19,
+            "source": "fitbit",
+            "source_name": "Fitbit",
+            "last_updated": "2015-01-15T19:03:42+00:00",
+            "user_id": "52fa869cf1f70e078700001f"
+        },
+        {
+            "_id": "54b6a4ee9cefa4e4ab000bd4",
+            "timestamp": "2015-01-14T17:59:29+00:00",
+            "utc_offset": "+00:00",
+            "weight": 53,
+            "height": null,
+            "free_mass": 40,
+            "fat_percent": 24.528301886792,
+            "mass_weight": null,
+            "bmi": null,
+            "source": "healthgraph",
+            "source_name": "RunKeeper",
+            "last_updated": "2015-01-14T17:18:38+00:00",
+            "user_id": "52f36ec6f1f70e2719000001"
+        },
+        {
+            "_id": "54b670d3f9d1395895035a1c",
+            "timestamp": "2015-01-14T13:23:29+00:00",
+            "utc_offset": "+00:00",
+            "weight": 56,
+            "height": null,
+            "free_mass": null,
+            "fat_percent": 0,
+            "mass_weight": null,
+            "bmi": 21.875,
+            "source": "vitadock",
+            "source_name": "Vitadock",
+            "last_updated": "2015-01-14T13:36:19+00:00",
+            "user_id": "52ffcb4bf1f70eefba000004"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "status": 200,
+    "message": "Ok",
+    "results": 0,
+    "start_date": "2015-01-14T00:00:00+00:00",
+    "end_date": "2015-01-16T23:59:59+00:00",
+    "offset": 0,
+    "limit": 100,
+    "previous": null,
+    "next": null,
+    "params": {
+      "start_date": null,
+      "end_date": null,
+      "offset": 0,
+      "limit": 0
+    }
+  },
+  "tobacco_cessation": [
+    {
+    "_id": "51552cd8fded0807c4000031",
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "cigarettes_allowed": 9,
+    "cigarettes_smoked": 2,
+    "cravings": 12,
+    "last_smoked": "2013-03-10T05:55:36+00:00",
+    "source": "sample_app",
+    "source_name": "Sample App",
+    "last_updated": "2013-03-10T07:12:16+00:00"
+  }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "status": 200,
+    "message": "OK",
+    "results": 3,
+    "start_date": "2013-03-27T00:00:00+00:00",
+    "end_date": "2013-03-27T23:59:59+00:00",
+    "offset": 0,
+    "limit": 100,
+    "previous": null,
+    "next": null,
+    "params": {
+      "start_date": null,
+      "end_date": null,
+      "offset": null,
+      "limit": null
+    }
+  }, "weight": [
+    {
+      "_id": "51552cdcfded0807c4000075",
+      "timestamp": "2013-03-10T07:12:16+00:00",
+      "utc_offset": "+00:00",
+      "weight": 83.9146,
+      "height": 167.5,
+      "free_mass": 83.9146,
+      "fat_percent": 21.4,
+      "mass_weight": 83.9146,
+      "bmi": 29.9,
+      "source": "sample_app",
+      "source_name": "Sample App",
+      "last_updated": "2013-03-10T07:12:16+00:00"
+    },
+    {
+      "_id": "531552cdcfded0807c4000075",
+      "timestamp": "2013-03-10T07:12:16+00:00",
+      "utc_offset": "+00:00",
+      "weight": 83.9146,
+      "height": 144,
+      "free_mass": 83.9146,
+      "fat_percent": 21.4,
+      "mass_weight": 83.9146,
+      "bmi": 29.9,
+      "source": "sample_app",
+      "source_name": "Sample App",
+      "last_updated": "2013-03-10T07:12:16+00:00"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": 201,
+  "message": "Ok",
+  "weight": {
+    "_id": "51552cddfded0807c4000083",
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "+00:00",
+    "weight": 83.9146,
+    "height": 167.5,
+    "free_mass": 83.9146,
+    "fat_percent": 21.4,
+    "mass_weight": 83.9146,
+    "bmi": 29.9,
+    "source": "sample_app",
+    "source_name": "Sample App",
+    "last_updated": "2013-03-10T07:12:16+00:00"
+  }
+}

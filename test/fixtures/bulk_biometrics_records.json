@@ -1,0 +1,55 @@
+{
+  "summary": {
+    "status": 200,
+    "message": "OK",
+    "results": 3,
+    "start_date": "2013-03-27T00:00:00+00:00",
+    "end_date": "2013-03-27T23:59:59+00:00",
+    "offset": 0,
+    "limit": 100,
+    "previous": null,
+    "next": null,
+    "params": {
+      "start_date": null,
+      "end_date": null,
+      "offset": null,
+      "limit": null
+    }
+}, "biometrics": [
+    {
+      "_id": "51552cdcfded0807c4000075",
+      "timestamp": "2013-03-10T07:12:16+00:00",
+      "utc_offset": "+00:00",
+      "blood_calcium": 9.2,
+      "blood_chromium": 1.32,
+      "blood_folic_acid": 8.1,
+      "blood_magnesium": 1.89,
+      "blood_potassium": 3.9,
+      "blood_sodium": 137.8,
+      "blood_vitamin_b12": 612,
+      "blood_zinc": 93,
+      "creatine_kinase": 87,
+      "crp": 0,
+      "diastolic": 73,
+      "ferritin": 189,
+      "hdl": 44,
+      "hscrp": 0.3,
+      "il6": 6.4,
+      "ldl": 156,
+      "resting_heartrate": 74,
+      "systolic": 122,
+      "testosterone": 457,
+      "total_cholesterol": 208,
+      "tsh": 0.6,
+      "uric_acid": 4.2,
+      "vitamin_d": 54.8,
+      "white_cell_count": 7453,
+      "spo2": 96,
+      "temperature": 37,
+      "source": "sample_app",
+      "source_name": "Sample App",
+      "last_updated": "2013-03-10T07:12:16+00:00",
+      "user_id": "51552cd7fded0807c4000017"
+    }
+  ]
+}

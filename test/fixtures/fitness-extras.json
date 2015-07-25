@@ -1,0 +1,15 @@
+{
+  "fitness": {
+    "timestamp": "2013-03-10T07:12:16+00:00",
+    "utc_offset": "-05:00",
+    "type": "Running",
+    "intensity": "medium",
+    "start_time": "2013-03-09T02:12:16-05:00",
+    "distance": 5149.9,
+    "duration": 1959,
+    "calories": 350,
+    "activity_id": "12345",
+    "extras": { "stars": 3 }
+  },
+  "access_token": "e7ba1f04e88f25d399a91c8cbcd72300e01309e96b7725e40b49cd1effaa5deb"
+}
